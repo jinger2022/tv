@@ -71,7 +71,7 @@
 {"key":"csp_xbb_黑狐影视ns","name":"🍀黑狐影视(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/黑狐影视ns.json"},
 {"key":"csp_xbb_真不卡cerrd","name":"🍀真不卡cerrd(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/真不卡ns.json"},
 {"key":"csp_xbb_奇优影院ns","name":"🍀奇优影院(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/奇优影院ns.json"}, 
-{"key":"学堂","name":"🍀吾爱学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/chenchunjing2021/TVBox8/raw/branch/master/吾爱学堂.json"},
+{"key":"学堂","name":"🍀吾爱学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.com/jinger2022/tv/raw/main/吾爱学堂.json"},
 {"key": "csp_xp_yinfans","name": "💥音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/yinfans.json"},
 {"key":"bdys","name":"💥哔嘀磁力(慎用)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/bdys01.json","jar": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/cili.jpg"},
 {"key":"csp_xp_naifei","name":"💢奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/naifei.json"},
