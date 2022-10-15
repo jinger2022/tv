@@ -324,7 +324,7 @@
 {"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
   ],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://agit.ai/chenchunjing2021/TVBox8/raw/branch/master/2925.jar",
+"spider":"https://github.com/jinger2022/tv/raw/main/2925.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=aHR0cHM6Ly9naXRodWIuY29tL2ppbmdlcjIwMjIvdHYvcmF3L21haW4vbGl2ZS50eHQ="
 ]}]}],
