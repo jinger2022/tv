@@ -18,7 +18,7 @@
 {"key": "push_agent","name": "📨推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"}
 ],
 "lives": [
-{"name": "影视","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jinger2022/tv/main/live23.txt","type": 0,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "live","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jinger2022/tv/main/live23.txt","type": 0,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"group": "redirect","channels": [{"name": "live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS9qaW5nMjAyMy9ib3gvLS9yYXcvbWFpbi9saXZlLnR4dA=="]}]}
 ],
 "rules":[
